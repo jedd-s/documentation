@@ -1,18 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "DCB Client API",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#165ca3",
+    "light": "#0762c9",
+    "dark": "#0d5d8f"
   },
   "favicon": "/favicon.svg",
-  "servers": [
-    {
-      "url": "https://api.example.com/v1"
-    }
-  ],
   "navigation": {
     "tabs": [
       {
